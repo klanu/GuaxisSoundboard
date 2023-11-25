@@ -1,0 +1,25 @@
+img {
+    width: 150px;
+    border-radius: 150px;
+}
+
+button {
+    padding: 10px;
+    margin: 50px;
+}
+
+h1 {
+    color: white;
+    border: 10px 10px 10px black;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 70px;
+    text-shadow: 5px 5px 10px rgb(0, 0, 0);
+    text-align: center;
+}
+
+body {
+    display: block;
+    background-size: cover;
+}
